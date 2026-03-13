@@ -125,10 +125,6 @@
 
 ---
 
-## 恋爱与亲密场景
-
-角色亲密反应见 `rules/companions.md` 恋爱系统 + `campaign/companions/{name}-intimate.md`。
-
 ---
 
 <!-- 以上 = DM 是谁、怎么讲故事、怎么裁定 -->
@@ -156,7 +152,6 @@
 | 触发场景                             | 必须先读取                                                                                                                           |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 好感度变动 / 深度对话                | 对应 `campaign/companions/{name}.md`（对话池）+ `rules/companions.md`（规则）                                                        |
-| 亲密场景触发，演绎                   | 对应 `campaign/companions/{name}.md` + `rules/companions.md`（恋爱系统）+ `campaign/companions/{name}-intimate.md`（身体特征/反应风格） |
 | 与特定 NPC 深入交互                  | 当前区域 `npcs.md`（如 `icewind-dale/npcs.md`）+ `sessions/dm-revealed-info.md`（确认玩家已知信息）                                  |
 | 伏笔埋入 / 回收检查                  | `sessions/dm-notes.md`（伏笔追踪表+涟漪种子表）                                                                                     |
 | 觉醒检查 / 法术细节                  | 系统已终结（Day 93）。历史规则：`not current rules/achieve/grimoire-awakening.md`                                                    |
